@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.pythonPath": "C:\\Users\\Fateme\\.conda\\envs\\venve_conda_3_6\\python.exe" ,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
